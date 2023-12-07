@@ -1,0 +1,165 @@
+
+.header {
+    background-color: #1f2937;
+    padding: 15px;
+    max-width: 100%;
+    height: auto;
+    
+}
+.header1 {
+    font-size: 20px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 250px;
+}
+div img {
+    width: 150px;
+    height: auto;
+}
+ ul {
+    list-style-type: none;
+    display: flex; 
+    gap: 25px;
+    margin-right: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    margin-bottom: 15px; 
+}
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.sign {
+    background: #3882f6;
+    border-radius: 12%;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    padding: 4px 18px;
+    border: none;
+    text-align: center;
+}
+.imagine {
+    margin: auto;
+}
+
+.imagine img {
+    width: 400px;
+    height: auto;
+    background-size: cover;
+    border-radius: 15px;
+}
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    margin-left: 150px;
+}
+.hero1 {
+    width: 500px;
+}
+.content {
+    text-align: center;
+}
+
+h1 {
+    padding: 50px;
+    color: blue;
+}
+.mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    gap: 40px;
+}
+
+.info img {
+    width: 400px;
+    height: auto;
+    border: 2px solid black;
+}
+.info div,
+.created p {
+    color: black;
+}
+.created {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.creator {
+    width: 500px;
+}
+.text {
+    padding: 15px;
+    margin-top: 15px;
+}
+.test p {
+    color: black;
+    font-size: 15px;
+    margin-top: 0;
+    margin-left: 20px;
+}
+.test {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3882f6;
+    width: 1000px;
+    border-radius: 4%;
+    gap: 100px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    padding: 20px;
+    
+}
+.Contact {
+    background-color: #3882f6;
+    border-radius: 12%;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-top: px;
+    border: 1px solid white;
+}
+.ride {
+    
+
+    margin-bottom: 30px;
+}
+h5 {
+    padding: 20px;
+    margin-bottom: -20px;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #1f2937;
+    height: 80px;
+}
